@@ -84,7 +84,7 @@ export default class News extends Component {
         render() {        
     return (
     <div className="container my-3">
-        <h2 style={{margin: '35px 0px 35px 0px'}} className='text-center'>News Point- Top {this.capitalizeFirstLetter(this.props.category)} Headlines</h2>
+        <h2 style={{margin: '100px 0px 35px 0px'}} className='text-center'>News Point- Top {this.capitalizeFirstLetter(this.props.category)} Headlines</h2>
 {this.state.loading&&<Spiner />}
 
 <InfiniteScroll

@@ -8,7 +8,7 @@ body {
  } 
 
 
-  .news{
+  /* .news{
 
     display: block;
     color: white;
@@ -16,20 +16,20 @@ body {
     padding: 14px 16px;
     margin: 6px 10px;
     text-decoration: none;
-  }
-  .news:hover{
+  } */
+  /* .news:hover{
     text-decoration: none;
      background-color: rgba(0,0,0,0);
     color: white;
-  }
-.nav {
+  } */
+/* .nav {
   transition: all 2s;
   background-color: rgba(0,0,0,0.4);
   z-index: 1;
   height: 70px;
  
-}
-ul{
+} */
+/* ul{
   
   display: flex; 
   list-style-type: none;
@@ -50,7 +50,7 @@ ul{
 }
 
 /* Change the link color to #111 (black) on hover */
-.link:hover {border-radius: 25px;
+/* .link:hover {border-radius: 25px;
   background-color: rgba(0,0,0,0.5);
   text-decoration: none;
   color: rgb(255, 213, 213);
@@ -58,14 +58,21 @@ ul{
   font-weight: 200;
   
  
+}  */
+.card-body a{
+  transition: all 0.3s;
 }
+
+
 .card-body a:hover{
+  transform: scale(1.08);
  
-  font-size: large;
+  /* font-size: large; */
 
 
 }
 .fixed{
+  z-index: 1;
   position: fixed;
   top:0;
   background-color: black;
@@ -74,4 +81,14 @@ ul{
 .fixed + .sample-content{
   padding-top: 60px;
  
+}
+.navI{
+  display: flex;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 20px;
+ 
+  transition: all 0.4s;
+  transition-timing-function: ease-in;
 }
