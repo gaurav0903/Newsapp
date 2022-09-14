@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Mukesh Ambani: India tycoon launches $25bn 5G rollout plan",
+      "description": "Mukesh Ambani says his firm is also working with Google to develop a budget 5G smartphone.",
+      "url": "http://www.bbc.co.uk/news/business-62719598",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4D25/production/_126494791_gettyimages-1242632888-1.jpg",
+      "publishedAt": "2022-08-30T06:37:23.6289744Z",
+      "content": "By Annabelle LiangBusiness reporter\r\nIndian multi-billionaire Mukesh Ambani has announced a $25bn (£21.3bn) plan to launch 5G mobile internet services in the country within two months.\r\nMr Ambani, wh… [+2540 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Chris Dawson: Husband in podcast-famous case guilty of murder",
+      "description": "Chris Dawson faced trial in Australia over the 1982 disappearance of his wife, Lynette.",
+      "url": "http://www.bbc.co.uk/news/world-australia-62719515",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/54F1/production/_112154712_breaking.png",
+      "publishedAt": "2022-08-30T05:37:21.2382051Z",
+      "content": "By Tiffanie TurnbullBBC News, Sydney\r\nAn Australian man who became the subject of a popular crime podcast has been found guilty of his wife's cold case murder.\r\nChris Dawson's trial in a Sydney court… [+795 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Meghan interview: It takes effort to forgive, says Duchess of Sussex",
+      "description": "In a wide-ranging interview, she reflects on her time as a working member of the Royal Family.",
+      "url": "http://www.bbc.co.uk/news/uk-62717696",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12DC1/production/_126494277_gettyimages-1400892062-1.jpg",
+      "publishedAt": "2022-08-30T03:52:21.7699832Z",
+      "content": "The Duchess of Sussex has spoken of the importance of forgiveness in a wide-ranging interview with a US magazine.\r\nMeghan, 41, told The Cut \"it takes a lot of effort to forgive\" when asked about her … [+3218 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Moqtada al-Sadr: At least 15 dead amid fighting in Iraqi capital",
+      "description": "Clashes erupt after powerful Shia cleric Moqtada al-Sadr announces his retirement from politics.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-62719497",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17AB/production/_126495060_gettyimages-1242803996.jpg",
+      "publishedAt": "2022-08-30T03:22:22.3942365Z",
+      "content": "By Matt MurphyBBC News\r\nAt least 15 people have been killed as clashes between Iraqi security forces and supporters of a powerful Shia cleric continued in Baghdad overnight.\r\nOfficials say dozens mor… [+3784 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Undeclared pools in France uncovered by AI technology",
+      "description": "Millions in tax revenue has been collected after more than 20,000 undeclared pools were found.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62717599",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4B27/production/_126493291_gettyimages-178924445.jpg",
+      "publishedAt": "2022-08-30T02:22:24.5977455Z",
+      "content": "The discovery of thousands of undeclared private swimming pools in France has provided an unexpected windfall for French tax authorities.\r\nFollowing an experiment using artificial intelligence (AI), … [+2276 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Sport",
+      "title": "Williams starts US Open farewell with a win",
+      "description": "Serena Williams extends her US Open farewell after a gritty opening win on an entertaining night packed with hope and celebration in New York.",
+      "url": "http://www.bbc.co.uk/sport/tennis/62718771",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/2291/production/_126494880_gettyimages-1419175733.jpg",
+      "publishedAt": "2022-08-30T02:22:22.5357587Z",
+      "content": "Serena Williams has won the US Open women's singles title six times\r\n<table><tr><th>US Open 2022</th></tr>\r\n<tr><td>Venue: Flushing Meadows, New York Dates: 29 August-11 September</td></tr><tr><td>Co… [+2933 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Pakistan floods: Disaster to cost more than $10bn, minister says",
+      "description": "Separately on Monday, the country received a $1.1bn bailout from the International Monetary Fund.",
+      "url": "http://www.bbc.co.uk/news/business-62719659",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/41D1/production/_126494861_gettyimages-1242796794.jpg",
+      "publishedAt": "2022-08-30T02:22:16.8327728Z",
+      "content": "By Peter HoskinsBusiness reporter\r\nPakistan's planning minister says early estimates show the devastating floods to hit the country have caused at least $10bn (£8.5bn) of damage.\r\nHis comment comes a… [+2246 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Man breaks Guinness World Record riding in a pumpkin",
+      "description": "Duane Hansen grew the 846lb (384kg) pumpkin in his garden with the aim to beat the 25.5 mile record.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62716252",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2791/production/_126492101_pumpkin.png",
+      "publishedAt": "2022-08-29T22:37:17.9736336Z",
+      "content": "Duane Hansen has set a new Guinness World Record for riding 38 miles (61km) in a giant pumpkin.\r\nHe grew the 846lb (384kg) pumpkin in his garden with the aim to beat the 25.5 mile record, set in 2018… [+93 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kherson: Ukraine claims new push in Russian-held region",
+      "description": "The reported advance is part of a long-planned offensive by Kyiv to retake the southern Kherson region.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62712299",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F0ED/production/_126477616_gettyimages-1242009791.jpg",
+      "publishedAt": "2022-08-29T15:52:22.0507985Z",
+      "content": "By Leo Sands &amp; Yaroslav LukovBBC News\r\nUkraine's military claims to have broken through Russia's first line of defence in the occupied Kherson region.\r\nThe reported push appears to form part of a… [+4374 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Indianapolis: Dutch commando dies after shooting outside US hotel",
+      "description": "The special forces soldier was one of three Dutch commandos wounded in an attack early on Saturday.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62712298",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3328/production/_126469031_dutchdefence.jpg",
+      "publishedAt": "2022-08-29T08:52:22.833071Z",
+      "content": "By Leo SandsBBC News\r\nA Dutch commando has died of his injuries after being shot outside an Indianapolis hotel while off-duty. \r\nHe was one of three Dutch soldiers, all in the US for training exercis… [+1478 chars]"
+    }
+  ]
+}
